@@ -1,5 +1,6 @@
 Hi, I’m @jcminersanofi
-- I work in bioinformatics, structure-prediction and sequence alignment within the biotech industry.
-- Currently learning Agile practices for pipeline integration.
-- I am always open to collaborations for protein folding, RNA folding, and biomacromolecule structure prediction.
-- I can be reached at jacob.miner@sanofi.com.
+- mRNA Center-of-Excellence Senior Scientist for a large biopharma company.
+- Regularly utilizing tools in bioinformatics, structure-prediction and sequence alignment for designing novel molecules.
+- Implementing Agile practices for pipeline integration of algorithms product delivery to wet lab experimental teams.
+- Always open to collaborations for protein folding, RNA folding, and biomacromolecule structure prediction.
+- Can be reached at jacob.miner@sanofi.com.
